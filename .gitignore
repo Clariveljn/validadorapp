@@ -1,0 +1,9 @@
+# Directorios y archivos generados por el IDE (IntelliJ IDEA)
+.idea/
+*.iml
+
+# Directorios generados por la construcción de Maven
+target/
+
+# Archivos de logs u otros temporales
+*.log
