@@ -100,6 +100,13 @@ My Account → Security en la interfaz de SonarQube.*
 * Mejora del Quality Gate.
 * Código más seguro y mantenible.
 
+## 📷 Capturas
+### Antes de aplicar mejoras
+![Antes](img/antes.png)
+
+### Después de aplicar mejoras
+![Después](img/despues.png)
+
 ## 💬 Reflexión final
 * **Errores detectados por SonarQube:** hardcoded credentials, uso inapropiado de salida por consola, ausencia de logs.
 
